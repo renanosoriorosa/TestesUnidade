@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRvnKoNjBtcxrCegaTMgcx5Dp1tJw9UpOYY068yyfWr0HjIE35kZJYz7TFiBOY/VVNa4yjsqahPfTG+D4eZrJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renan\\Documents\\Cursos\\DesenvolvedorIO\\Dominando Testes de Software\\TestesDeSoftware\\02 - TDD\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
