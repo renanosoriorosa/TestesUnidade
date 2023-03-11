@@ -21,7 +21,7 @@ namespace Features.Tests
         [Trait("Categoria", "Cliente Service Mock Tests")]
         public void ClienteService_Adicionar_DeveExecutarComSucesso()
         {
-            // Arrangez
+            // Arrange
             var cliente = _clienteTestsBogus.GerarClienteValido();
             var clienteRepo = new Mock<IClienteRepository>();
             var mediatr = new Mock<IMediator>();

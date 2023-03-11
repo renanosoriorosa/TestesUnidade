@@ -1,0 +1,30 @@
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\Curso Versao prof\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
