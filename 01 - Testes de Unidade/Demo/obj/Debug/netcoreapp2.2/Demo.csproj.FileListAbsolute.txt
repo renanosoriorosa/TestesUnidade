@@ -1,0 +1,10 @@
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.AssemblyReference.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Dominando Testes de Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb
